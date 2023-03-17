@@ -32,7 +32,7 @@ Insert your Pitch Video or Slides here
 * Statistical population data in machine readable format: http://stada2.sg.ch/
 
 ### Further (open) Information
-* https://opendata.swiss/deSwiss social statistics report 2019: https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.9026637.html
+* https://opendata.swiss/de
 * https://daten.sg.ch/
 
 
