@@ -13,7 +13,7 @@ The department for waste disposal is looking for innovative solutions on how the
 
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
+https://github.com/START-Hack/CityOfStGallen_STARTHACK23/blob/main/230303_START%20Hack%202022%20Pitch.pdf
 
 ### Deep Dive Slides
 
