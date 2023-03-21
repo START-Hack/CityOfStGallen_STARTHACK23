@@ -1,4 +1,6 @@
-# START-Hack-CityOfStGallen-STARTHACK23
+# From Trash to Treasure: Innovating St. Gallen's Bulky Waste Collection for a Sustainable Future
+
+<img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/120366987/226591564-9da80c5d-3fe8-499a-aad7-7c3578eddae3.png">
 
 ### Case Introduction
 The challenge is about the optimization of re-using, recycling and removal of bulky waste:
