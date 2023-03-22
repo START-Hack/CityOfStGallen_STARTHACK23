@@ -18,7 +18,7 @@ The department for waste disposal is looking for innovative solutions on how the
 https://github.com/START-Hack/CityOfStGallen_STARTHACK23/blob/main/230303_START%20Hack%202022%20Pitch.pdf
 
 ### Deep Dive Slides
-
+https://github.com/START-Hack/CityOfStGallen_STARTHACK23/blob/main/230303_START%20Hack%202023%20Deep%20Dive.pdf
 
 
 ### Resources
@@ -36,7 +36,8 @@ https://github.com/START-Hack/CityOfStGallen_STARTHACK23/blob/main/230303_START%
 ### Further (open) Information
 * https://opendata.swiss/de
 * https://daten.sg.ch/
-
+* German: https://www.stadt.sg.ch/home/raum-umwelt/abfall-entsorgung.html
+* Other languages: https://www.stadt.sg.ch/home/raum-umwelt/abfall-entsorgung/Abfallinformationen_fuer_Fremdsprachige.html
 
 ### Judging Criteria
 We orient ourselves at the judging criteria of the START Hack which consists of the following criteria:
