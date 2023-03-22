@@ -55,10 +55,10 @@ However, St.Gallen needs to add one more criteria - **USEFULNESS**:
 ### Point of Contact
 If you need to contact us online, please do so **only on Discord.** Do not use the START Summit platform for case questions and meeting coordination with us!
 
-* Christian Geiger, CDO Stadt St.Gallen: via Discord
-* Nicola Wullschleger, Projektmanager Smart City: via Discord @OpenDataStGallen_Nicola
-* Laure Brem, Smart City & Open Data: via Discord
-* Marc Maurhofer, Specialist waste disposal department, via Nicola
+* Christian Geiger, CDO City of St.Gallen: via Discord @StGallen_City_Christian
+* Nicola Wullschleger, Project Manager Smart City and Open Data: via Discord @StGallen_City_Nicola
+* Laure Brem, Intern Smart City & Open Data: via Discord @StGallen_City_Laure
+* Marc Maurhofer, Specialist waste disposal department: via Nicola
 
 ### Time Slots at the Booth
 Availability at the booth will be defined at a later stage
