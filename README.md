@@ -22,12 +22,12 @@ https://github.com/START-Hack/CityOfStGallen_STARTHACK23/blob/main/230303_START%
 
 
 ### Resources
-* Statistics on bulky waste stamp sales: *Handed out to the definitive participants*
-* Statistics on bulky waste stamp usage and misusage (illegal waste disposal): *Handed out to the definitive participants*
+* Statistics on bulky waste: https://daten.stadt.sg.ch/explore/dataset/sperrgutstatistik-stadt-st-gallen/ *Access granted to the definitive participants*
+* Statistics on bulky waste stamp sales: https://daten.stadt.sg.ch/explore/dataset/statistik-sperrgutmarkenverkauf-entsorgung-stgallen/ *Access granted to the definitive participants*
+* Statistics on bulky waste stamp misusage (illegal waste disposal): https://daten.stadt.sg.ch/explore/dataset/wilde-deponien-stadt-stgallen/ *Access granted to the definitive participants*
 * Points of sale of bulky waste stamps: https://daten.stadt.sg.ch/explore/dataset/sperrgutmarken-verkauf
-* Points of illegal waste disposal: *Handed out to the definitive participants*
-* Waste collection routes as geographic data
-* Pick up points on waste collection routes
+* Waste collection routes as geographic data: https://daten.stadt.sg.ch/explore/dataset/touren-kehrichentsorgung-stadt-stgallen/ *Access granted to the definitive participants*
+* Pick up points on waste collection routes: https://daten.stadt.sg.ch/explore/dataset/pickup-punkte-kehrichtentsorgung-stgallen/ *Access granted to the definitive participants*
 * Waste statistics: https://daten.stadt.sg.ch/explore/dataset/entsorgungsstatistik-stadt-stgallen
 * Waste bins (underground) for trash: https://daten.stadt.sg.ch/explore/dataset/unterflurbehalter
 * Recycling points (glass, cans, etc.): https://daten.stadt.sg.ch/explore/dataset/sammelstellen/
